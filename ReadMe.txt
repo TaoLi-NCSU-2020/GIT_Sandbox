@@ -6,4 +6,8 @@ this is another test again
 
 this is another test again again
 
+<<<<<<< HEAD
 haha
+=======
+haha
+>>>>>>> origin/master
